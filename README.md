@@ -8,6 +8,7 @@ Short overview of the key features of Go 1.21
 
 Press **view** to see the specific code or **run** to run it in the playground.
 
-* cmp: [view](https://github.com/AlexMykhailov1/go1.21/blob/main/cmp/cmp.go), [run](https://goplay.tools/snippet/yIHfu9438nH).
 * min and max: [view](https://github.com/AlexMykhailov1/go1.21/blob/main/min-max/min-max.go), [run](https://goplay.tools/snippet/s-wRvwSVBiH).
+* clear: [view](https://github.com/AlexMykhailov1/go1.21/blob/main/clear/clear.go), [run](https://goplay.tools/snippet/7YwRXJ6U5Tm).
+* cmp: [view](https://github.com/AlexMykhailov1/go1.21/blob/main/cmp/cmp.go), [run](https://goplay.tools/snippet/yIHfu9438nH).
 
